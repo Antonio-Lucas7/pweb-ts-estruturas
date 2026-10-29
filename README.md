@@ -20,5 +20,4 @@ Disciplina: Programação Web
 
 ## Publicação
 
-Depois de publicar a raiz do repositório pelo GitHub Pages, coloque aqui o endereço público do site:
-**Site:** (preencha após ativar o GitHub Pages)
+**Site:** (https://antonio-lucas7.github.io/pweb-ts-estruturas/)
